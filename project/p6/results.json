@@ -1,0 +1,53 @@
+{
+  "score": 100.0,
+  "tests": [
+    {
+      "test": "conn_cleanup",
+      "points": 5,
+      "possible": 5
+    },
+    {
+      "test": "list_images",
+      "points": 5,
+      "possible": 5
+    },
+    {
+      "test": "image_year",
+      "points": 5,
+      "possible": 5
+    },
+    {
+      "test": "image_name",
+      "points": 5,
+      "possible": 5
+    },
+    {
+      "test": "image_load",
+      "points": 5,
+      "possible": 5
+    },
+    {
+      "test": "plot_img",
+      "points": 5,
+      "possible": 5
+    },
+    {
+      "test": "lat_regression",
+      "points": 20,
+      "possible": 20
+    },
+    {
+      "test": "city_regression",
+      "points": 25,
+      "possible": 25
+    },
+    {
+      "test": "city_plot",
+      "points": 25,
+      "possible": 25
+    }
+  ],
+  "lint": [],
+  "date": "11/26/2020",
+  "latency": 63.827789545059204
+}

@@ -1,0 +1,43 @@
+{
+  "score": 100.0,
+  "tests": [
+    {
+      "test": "small_samp",
+      "points": 10,
+      "possible": 10
+    },
+    {
+      "test": "big_samp",
+      "points": 10,
+      "possible": 10
+    },
+    {
+      "test": "small_country",
+      "points": 10,
+      "possible": 10
+    },
+    {
+      "test": "big_country",
+      "points": 20,
+      "possible": 20
+    },
+    {
+      "test": "geocontinent",
+      "points": 25,
+      "possible": 25
+    },
+    {
+      "test": "geohour",
+      "points": 15,
+      "possible": 15
+    },
+    {
+      "test": "video",
+      "points": 10,
+      "possible": 10
+    }
+  ],
+  "lint": [],
+  "date": "11/12/2020",
+  "latency": 61.24095153808594
+}

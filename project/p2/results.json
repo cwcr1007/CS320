@@ -1,0 +1,63 @@
+{
+  "score": 100.0,
+  "tests": [
+    {
+      "test": "has_classes1",
+      "points": 5,
+      "possible": 5
+    },
+    {
+      "test": "testReader",
+      "points": 10,
+      "possible": 10
+    },
+    {
+      "test": "testBankNames",
+      "points": 3,
+      "possible": 3
+    },
+    {
+      "test": "testBank",
+      "points": 6,
+      "possible": 6
+    },
+    {
+      "test": "testLoan",
+      "points": 10,
+      "possible": 10
+    },
+    {
+      "test": "testSimplePredictor",
+      "points": 4,
+      "possible": 4
+    },
+    {
+      "test": "testDTree",
+      "points": 27,
+      "possible": 27
+    },
+    {
+      "test": "testLoanFilter",
+      "points": 10,
+      "possible": 10
+    },
+    {
+      "test": "testRF",
+      "points": 9,
+      "possible": 9
+    },
+    {
+      "test": "testBias",
+      "points": 10,
+      "possible": 10
+    },
+    {
+      "test": "testBiasLargeFile",
+      "points": 6,
+      "possible": 6
+    }
+  ],
+  "lint": [],
+  "date": "10/08/2020",
+  "latency": 24.1544508934021
+}

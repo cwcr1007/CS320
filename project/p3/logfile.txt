@@ -1,0 +1,303 @@
+ * Serving Flask app "application" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+127.0.0.1 - - [20/Oct/2020 08:34:48] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:34:48] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:34:48] "[37mGET /Node_1.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:34:48] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:34:48] "[37mGET /Node_1.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:34:48] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:34:48] "[37mGET /Node_2.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:34:49] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:34:49] "[37mGET /Node_3.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:34:49] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:34:49] "[37mGET /Node_6.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:34:49] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:34:49] "[37mGET /Node_5.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:34:49] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:34:49] "[37mGET /Node_4.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:34:49] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:34:49] "[37mGET /Node_7.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:34:49] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:34:49] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:34:49] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:34:49] "[37mGET /Node_1.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:34:49] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:34:49] "[37mGET /Node_1.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:34:49] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:34:49] "[37mGET /Node_2.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:34:49] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:34:49] "[37mGET /Node_4.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:34:50] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:34:50] "[37mGET /Node_3.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:34:50] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:34:50] "[37mGET /Node_5.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:34:50] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:34:50] "[37mGET /Node_6.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:34:50] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:34:50] "[37mGET /Node_7.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:34:50] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:34:50] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:34:50] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:34:50] "[37mPOST /password HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:34:50] "[37mGET /waitingTable.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:34:50] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:34:50] "[37mGET /locations_dfs?num=2 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:34:51] "[37mGET /locations_dfs?num=3 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:34:51] "[37mGET /locations_dfs?num=4 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:34:52] "[37mGET /locations_dfs?num=5 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:34:52] "[37mGET /locations_dfs?num=6 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:34:53] "[37mGET /locations_dfs?num=7 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:34:53] "[37mGET /locations_dfs?num=8 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:34:54] "[37mGET /locations_dfs?num=9 HTTP/1.1[0m" 200 -
+ * Serving Flask app "application" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+127.0.0.1 - - [20/Oct/2020 08:41:41] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:41:41] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:41:41] "[37mGET /Node_1.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:41:42] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:41:42] "[37mGET /Node_1.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:41:42] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:41:42] "[37mGET /Node_2.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:41:42] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:41:42] "[37mGET /Node_3.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:41:42] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:41:42] "[37mGET /Node_6.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:41:42] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:41:42] "[37mGET /Node_5.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:41:42] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:41:42] "[37mGET /Node_4.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:41:42] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:41:42] "[37mGET /Node_7.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:41:42] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:41:42] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:41:42] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:41:42] "[37mGET /Node_1.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:41:42] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:41:42] "[37mGET /Node_1.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:41:42] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:41:43] "[37mGET /Node_2.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:41:43] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:41:43] "[37mGET /Node_4.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:41:43] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:41:43] "[37mGET /Node_3.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:41:43] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:41:43] "[37mGET /Node_5.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:41:43] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:41:43] "[37mGET /Node_6.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:41:43] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:41:43] "[37mGET /Node_7.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:41:43] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:41:43] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:41:43] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:41:43] "[37mPOST /password HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:41:43] "[37mGET /waitingTable.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:41:43] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:41:43] "[37mGET /locations_dfs?num=2 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:41:44] "[37mGET /locations_dfs?num=3 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:41:44] "[37mGET /locations_dfs?num=4 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:41:45] "[37mGET /locations_dfs?num=5 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:41:45] "[37mGET /locations_dfs?num=6 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:41:46] "[37mGET /locations_dfs?num=7 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:41:46] "[37mGET /locations_dfs?num=8 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:41:47] "[37mGET /locations_dfs?num=9 HTTP/1.1[0m" 200 -
+ * Serving Flask app "application" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+127.0.0.1 - - [20/Oct/2020 08:48:59] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:48:59] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:48:59] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:48:59] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:49:00] "[37mGET /Node_1.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:49:00] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:49:00] "[37mGET /Node_1.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:49:00] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:49:00] "[37mGET /Node_2.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:49:00] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:49:00] "[37mGET /Node_3.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:49:00] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:49:00] "[37mGET /Node_6.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:49:00] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:49:01] "[37mGET /Node_5.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:49:01] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:49:01] "[37mGET /Node_4.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:49:01] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:49:01] "[37mGET /Node_7.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:49:01] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:49:01] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:49:01] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:49:01] "[37mGET /Node_1.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:49:01] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:49:01] "[37mGET /Node_1.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:49:01] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:49:01] "[37mGET /Node_2.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:49:01] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:49:01] "[37mGET /Node_4.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:49:01] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:49:01] "[37mGET /Node_3.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:49:01] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:49:02] "[37mGET /Node_5.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:49:02] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:49:02] "[37mGET /Node_6.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:49:02] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:49:02] "[37mGET /Node_7.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:49:02] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:49:02] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:49:02] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:49:02] "[37mPOST /password HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:49:02] "[37mGET /waitingTable.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:49:02] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:49:02] "[37mGET /locations_dfs?num=2 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:49:03] "[37mGET /locations_dfs?num=3 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:49:03] "[37mGET /locations_dfs?num=4 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:49:04] "[37mGET /locations_dfs?num=5 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:49:04] "[37mGET /locations_dfs?num=6 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:49:05] "[37mGET /locations_dfs?num=7 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:49:05] "[37mGET /locations_dfs?num=8 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:49:06] "[37mGET /locations_dfs?num=9 HTTP/1.1[0m" 200 -
+ * Serving Flask app "application" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+127.0.0.1 - - [20/Oct/2020 08:56:48] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:48] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:48] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:48] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:48] "[37mGET /Node_1.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:48] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:48] "[37mGET /Node_1.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:48] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:48] "[37mGET /Node_2.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:48] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:49] "[37mGET /Node_3.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:49] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:49] "[37mGET /Node_6.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:49] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:49] "[37mGET /Node_5.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:49] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:49] "[37mGET /Node_4.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:49] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:49] "[37mGET /Node_7.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:49] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:49] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:49] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:49] "[37mGET /Node_1.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:49] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:49] "[37mGET /Node_1.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:49] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:49] "[37mGET /Node_2.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:50] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:50] "[37mGET /Node_4.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:50] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:50] "[37mGET /Node_3.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:50] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:50] "[37mGET /Node_5.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:50] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:50] "[37mGET /Node_6.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:50] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:50] "[37mGET /Node_7.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:50] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:50] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:50] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:50] "[37mPOST /password HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:50] "[37mGET /waitingTable.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:50] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:50] "[37mGET /locations_dfs?num=2 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:51] "[37mGET /locations_dfs?num=3 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:51] "[37mGET /locations_dfs?num=4 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:52] "[37mGET /locations_dfs?num=5 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:52] "[37mGET /locations_dfs?num=6 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:53] "[37mGET /locations_dfs?num=7 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:53] "[37mGET /locations_dfs?num=8 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:54] "[37mGET /locations_dfs?num=9 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:55] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:55] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:55] "[37mPOST /password HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:55] "[37mGET /expandingTable.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:55] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:55] "[37mGET /locations_bfs?num=2 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:56] "[37mGET /locations_bfs?num=4 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:57] "[37mGET /locations_bfs?num=6 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:58] "[37mGET /locations_bfs?num=8 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:56:59] "[37mGET /locations_bfs?num=10 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 08:57:00] "[37mGET /locations_bfs?num=12 HTTP/1.1[0m" 200 -
+ * Serving Flask app "application" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+127.0.0.1 - - [20/Oct/2020 09:07:42] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:42] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:42] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:42] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:42] "[37mGET /Node_1.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:42] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:42] "[37mGET /Node_1.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:42] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:43] "[37mGET /Node_2.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:43] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:43] "[37mGET /Node_3.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:43] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:43] "[37mGET /Node_6.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:43] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:43] "[37mGET /Node_5.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:43] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:43] "[37mGET /Node_4.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:43] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:43] "[37mGET /Node_7.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:43] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:43] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:43] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:43] "[37mGET /Node_1.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:43] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:43] "[37mGET /Node_1.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:43] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:43] "[37mGET /Node_2.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:43] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:44] "[37mGET /Node_4.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:44] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:44] "[37mGET /Node_3.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:44] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:44] "[37mGET /Node_5.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:44] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:44] "[37mGET /Node_6.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:44] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:44] "[37mGET /Node_7.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:44] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:44] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:44] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:44] "[37mPOST /password HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:44] "[37mGET /waitingTable.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:44] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:44] "[37mGET /locations_dfs?num=2 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:45] "[37mGET /locations_dfs?num=3 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:45] "[37mGET /locations_dfs?num=4 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:46] "[37mGET /locations_dfs?num=5 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:46] "[37mGET /locations_dfs?num=6 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:47] "[37mGET /locations_dfs?num=7 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:47] "[37mGET /locations_dfs?num=8 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:48] "[37mGET /locations_dfs?num=9 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:48] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:48] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:49] "[37mPOST /password HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:49] "[37mGET /expandingTable.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:49] "[37mGET /styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:49] "[37mGET /locations_bfs?num=2 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:50] "[37mGET /locations_bfs?num=4 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:51] "[37mGET /locations_bfs?num=6 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:52] "[37mGET /locations_bfs?num=8 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:53] "[37mGET /locations_bfs?num=10 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Oct/2020 09:07:54] "[37mGET /locations_bfs?num=12 HTTP/1.1[0m" 200 -
